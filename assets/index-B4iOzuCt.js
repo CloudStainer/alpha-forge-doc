@@ -9121,7 +9121,7 @@ function $f({
                 a.jsx(Mf, { size: 32, className: "text-[#A3FF21]" }),
                 a.jsx("h1", {
                   className: "text-xl font-bold",
-                  children: "AgentZero",
+                  children: "AlphaForge",
                 }),
               ],
             }),
@@ -9184,11 +9184,11 @@ function Vf() {
       children: [
         a.jsx("p", {
           children:
-            "AgentZero is a groundbreaking platform at the intersection of blockchain, artificial intelligence, and decentralized finance (DeFi). Our mission is to empower individuals with private, secure, and AI-driven wealth management tools. By leveraging the power of Ethereum blockchain and cutting-edge AI technology, AgentZero enables users to deploy personalized AI agents to manage their assets, trade in DeFi markets, and seize financial opportunities while maintaining privacy and control.",
+            "AlphaForge is a groundbreaking platform at the intersection of blockchain, artificial intelligence, and decentralized finance (DeFi). Our mission is to empower individuals with private, secure, and AI-driven wealth management tools. By leveraging the power of Ethereum blockchain and cutting-edge AI technology, AlphaForge enables users to deploy personalized AI agents to manage their assets, trade in DeFi markets, and seize financial opportunities while maintaining privacy and control.",
         }),
         a.jsx("p", {
           children:
-            "As decentralized finance becomes increasingly prominent, the need for efficient and private wealth management solutions grows. AgentZero addresses this demand by combining advanced AI capabilities with blockchain transparency. It offers a user-centric platform where financial autonomy and privacy converge, setting a new standard for DeFi innovation.",
+            "As decentralized finance becomes increasingly prominent, the need for efficient and private wealth management solutions grows. AlphaForge addresses this demand by combining advanced AI capabilities with blockchain transparency. It offers a user-centric platform where financial autonomy and privacy converge, setting a new standard for DeFi innovation.",
         }),
       ],
     }),
@@ -9208,7 +9208,7 @@ function Hf() {
       }),
       a.jsx("p", {
         children:
-          "AgentZero envisions a future where financial management is democratized and decentralized, offering unparalleled privacy and flexibility. By empowering users with AI tools that adapt to their unique goals, AgentZero strives to redefine the way people interact with digital assets and decentralized markets.",
+          "AlphaForge envisions a future where financial management is democratized and decentralized, offering unparalleled privacy and flexibility. By empowering users with AI tools that adapt to their unique goals, AlphaForge strives to redefine the way people interact with digital assets and decentralized markets.",
       }),
     ],
   });
@@ -9310,7 +9310,7 @@ function Yf() {
       }),
       a.jsx("p", {
         children:
-          "AgentZero addresses these gaps by combining AI-driven automation with robust blockchain technology, giving users a secure and efficient way to navigate the DeFi ecosystem. With increasing demand for privacy and efficiency, AgentZero is positioned to become a leader in the market, catering to both novice and experienced users.",
+          "AlphaForge addresses these gaps by combining AI-driven automation with robust blockchain technology, giving users a secure and efficient way to navigate the DeFi ecosystem. With increasing demand for privacy and efficiency, AlphaForge is positioned to become a leader in the market, catering to both novice and experienced users.",
       }),
     ],
   });
@@ -9345,7 +9345,7 @@ function Jf() {
       a.jsx("p", {
         className: "text-white/80",
         children:
-          "AgentZero allows users to create personalized AI agents that align with their specific financial goals. These agents are tailored to user-defined parameters, including preferred trading strategies, risk levels, and target data sources.",
+          "AlphaForge allows users to create personalized AI agents that align with their specific financial goals. These agents are tailored to user-defined parameters, including preferred trading strategies, risk levels, and target data sources.",
       }),
     ],
   });
@@ -9537,7 +9537,7 @@ function up() {
       a.jsx("p", {
         className: "text-white/80",
         children:
-          "AgentZero's AI agents continuously learn from outcomes, adapting strategies to market conditions and improving decision-making over time. Users can monitor performance and make real-time adjustments through an intuitive dashboard.",
+          "AlphaForge's AI agents continuously learn from outcomes, adapting strategies to market conditions and improving decision-making over time. Users can monitor performance and make real-time adjustments through an intuitive dashboard.",
       }),
     ],
   });
@@ -9549,7 +9549,7 @@ function sp() {
       a.jsx(At, { number: 7, title: "Privacy and Security" }),
       a.jsx("p", {
         className: "text-white/80",
-        children: "AgentZero is built with privacy at its core:",
+        children: "AlphaForge is built with privacy at its core:",
       }),
       a.jsx("ul", {
         className: "list-none space-y-3",
@@ -9575,14 +9575,14 @@ function sp() {
 }
 function ap() {
   return a.jsx(Xe, {
-    title: "How AgentZero Protocol Works",
+    title: "How AlphaForge Protocol Works",
     children: a.jsxs("div", {
       className: "space-y-8",
       children: [
         a.jsx("p", {
           className: "text-lg leading-relaxed",
           children:
-            "AgentZero operates as a decentralized, AI-powered protocol designed to empower users with customized wealth management agents. Here's a step-by-step explanation of how the protocol functions:",
+            "AlphaForge operates as a decentralized, AI-powered protocol designed to empower users with customized wealth management agents. Here's a step-by-step explanation of how the protocol functions:",
         }),
         a.jsx(Jf, {}),
         a.jsx(rp, {}),
@@ -9602,7 +9602,7 @@ const cp = [
       "Tailored for standard and advanced DeFi interactions. These agents simplify complex tasks and enable users to focus on their financial goals.",
   },
   {
-    title: "AgentZero Token (AGZRO)",
+    title: "AlphaForge Token (AGZRO)",
     description:
       "The native ERC20 token that powers the platform. AGZRO integrates seamlessly into the ecosystem, offering utility and incentives.",
   },
@@ -9614,7 +9614,7 @@ const cp = [
   {
     title: "Community Governance",
     description:
-      "Token holders influence platform decisions through voting, ensuring that AgentZero evolves in alignment with user needs and preferences.",
+      "Token holders influence platform decisions through voting, ensuring that AlphaForge evolves in alignment with user needs and preferences.",
   },
   {
     title: "Educational Resources",
@@ -9653,7 +9653,7 @@ function fp() {
         a.jsx("p", {
           className: "text-lg leading-relaxed",
           children:
-            "The AgentZero ecosystem is designed to provide a comprehensive suite of tools and features that cater to diverse user needs:",
+            "The AlphaForge ecosystem is designed to provide a comprehensive suite of tools and features that cater to diverse user needs:",
         }),
         a.jsx(dp, {}),
       ],
@@ -9723,7 +9723,7 @@ function hp() {
         a.jsx("p", {
           className: "text-lg leading-relaxed",
           children:
-            "AgentZero's AI agents are designed to simplify wealth management by:",
+            "AlphaForge's AI agents are designed to simplify wealth management by:",
         }),
         a.jsx(mp, {}),
       ],
@@ -9731,7 +9731,7 @@ function hp() {
   });
 }
 const Zl = {
-    name: "AgentZero AI",
+    name: "AlphaForge AI",
     ticker: "AGZRO",
     totalSupply: "100,000,000 AGZRO",
   },
@@ -9941,7 +9941,7 @@ function Cp() {
         a.jsx("p", {
           className: "text-lg leading-relaxed",
           children:
-            "AgentZero employs a deflationary model to enhance token value:",
+            "AlphaForge employs a deflationary model to enhance token value:",
         }),
         a.jsx(Np, {}),
       ],
@@ -9981,13 +9981,13 @@ function zp() {
       children: [
         a.jsx("p", {
           className: "text-lg leading-relaxed",
-          children: "AgentZero's revenue model includes:",
+          children: "AlphaForge's revenue model includes:",
         }),
         a.jsx(_p, {}),
         a.jsx("p", {
           className: "text-lg leading-relaxed",
           children:
-            "By aligning our revenue streams with user incentives, AgentZero ensures a sustainable and community-driven growth trajectory. The business model emphasizes transparency, innovation, and user-centric development.",
+            "By aligning our revenue streams with user incentives, AlphaForge ensures a sustainable and community-driven growth trajectory. The business model emphasizes transparency, innovation, and user-centric development.",
         }),
       ],
     }),
@@ -10096,7 +10096,7 @@ function Rp() {
     children: [
       a.jsx("img", {
         src: "/agent.png",
-        alt: "AgentZero Logo",
+        alt: "AlphaForge Logo",
         className: "w-full h-full object-contain",
       }),
       a.jsx("div", {
@@ -10112,7 +10112,7 @@ function Ip() {
     children: [
       a.jsx("h1", {
         className: "text-4xl font-bold text-white",
-        children: "AgentZero",
+        children: "AlphaForge",
       }),
       a.jsx("p", {
         className: "text-xl text-[#A3FF21]/90",
